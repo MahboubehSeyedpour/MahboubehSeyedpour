@@ -18,8 +18,8 @@ Thank you for visiting, and I look forward to our shared journey of innovation a
 
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  -->
-  [![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/MahboubehSeyedpour/MahboubehSeyedpour)</br>
+![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+  <!-- [![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/MahboubehSeyedpour/MahboubehSeyedpour)</br> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahboubehSeyedpour&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
