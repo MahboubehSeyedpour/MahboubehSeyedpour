@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">About me</h1>
 
 <p align="justify">
 Software engineer with 6+ years of experience in designing and implementing robust applications with accuracy, and efficiency in different scopes from bancking to online store. Collaborative team player with exceptional troubleshooting and debugging skills. Proven ability to deliver high-quality, maintainable software solutions that align with complex business needs, supported by strong knowledge.
