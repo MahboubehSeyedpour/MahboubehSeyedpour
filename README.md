@@ -10,6 +10,24 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   - 
 -->
 
+
+
+- 🔧 Software Engineer with 6+ years of experience
+
+- ⚙️ Formerly an Android developer, now also a backend engineer
+
+- 🧠 Passionate about building scalable, maintainable, and secure microservices
+
+- 📦 Contributor and advocate for open-source software and collaborative development
+
+- 🤝 Strong collaborator with cross-functional teams, bridging technical and business goals
+
+- 📚 Committed to continuous learning and knowledge sharing through documentation and clean code
+
+- 💡 Open to ideas, feedback, and collaboration—let’s build something impactful together!
+  
+
+<!--
 <p align="justify">
 Software engineer with 6+ years of experience in designing and implementing robust applications with accuracy, and efficiency in different scopes from bancking to online store. Collaborative team player with exceptional troubleshooting and debugging skills. Proven ability to deliver high-quality, maintainable software solutions that align with complex business needs, supported by strong knowledge.
 
@@ -18,9 +36,9 @@ Hands-on experience collaborating with cross-functional teams has provided a dee
 My journey in the world of technology has been deeply intertwined with open-source projects, and I'm passionate about contributing to and improving the open-source space.
 
 As you navigate through my projects, you'll find a collection of endeavors that reflect my commitment to the craft. I invite you to explore, and collaborate, and together, we can make these projects even better.
-
-<!--Thank you for visiting, and I look forward to our shared journey of innovation and code excellence. -->
 </p>
+<!--Thank you for visiting, and I look forward to our shared journey of innovation and code excellence. -->
+
 
 <br>
 
