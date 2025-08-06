@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mahboubeh Seyedpour<img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<a href="mailto:i@mahboobeh.seyedpour@gmail.com">
+<a href="mailto:mahboobeh.seyedpour@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
