@@ -1,4 +1,14 @@
-<h1 align="left">About me</h1>
+<h1 align="center">Hi there, I'm Mahboubeh Seyedpour<img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<a href="mailto:i@mahboobeh.seyedpour@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+
+<!--
+  - :office: &nbsp;I'm currently working at **..**
+  - 
+-->
 
 <p align="justify">
 Software engineer with 6+ years of experience in designing and implementing robust applications with accuracy, and efficiency in different scopes from bancking to online store. Collaborative team player with exceptional troubleshooting and debugging skills. Proven ability to deliver high-quality, maintainable software solutions that align with complex business needs, supported by strong knowledge.
@@ -12,44 +22,64 @@ As you navigate through my projects, you'll find a collection of endeavors that 
 <!--Thank you for visiting, and I look forward to our shared journey of innovation and code excellence. -->
 </p>
 
-# Languages and Tools:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;
-<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> -->
-  </a>&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>&nbsp;
-<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> -->
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;
-<!--   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> -->
-  </a>&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+<br>
 
+<h2 align="left">Favorite Languages and Tools</h2>
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="go">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="kotlin">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="java">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="android">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="postgresql" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="docker" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="rabbitmq">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <a href="redis" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
