@@ -99,6 +99,13 @@ As you navigate through my projects, you'll find a collection of endeavors that 
 
 <br>
 
+<summary>Profile Views 👁️</summary>
+  <br/>
+
+  ![](https://komarev.com/ghpvc/?username=mahboubehseyedpour&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+  <br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
   <!-- [![](https://github-readme-stats.vercel.app/api?username=MahboubehSeyedpour&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/MahboubehSeyedpour/MahboubehSeyedpour)</br> -->
