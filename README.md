@@ -99,12 +99,6 @@ As you navigate through my projects, you'll find a collection of endeavors that 
 
 <br>
 
-
-<!--
-<summary>Profile Views 👁️</summary>
-  <br/>
--->
-
   ![](https://komarev.com/ghpvc/?username=mahboubehseyedpour&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
   <br>
