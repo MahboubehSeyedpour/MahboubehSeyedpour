@@ -10,8 +10,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   - 
 -->
 
-
-
 - 🔧 Software Engineer with 6+ years of experience
 
 - ⚙️ Formerly an Android developer, now also a backend engineer
@@ -26,19 +24,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 💡 Open to ideas, feedback, and collaboration—let’s build something impactful together!
   
-
-<!--
-<p align="justify">
-Software engineer with 6+ years of experience in designing and implementing robust applications with accuracy, and efficiency in different scopes from bancking to online store. Collaborative team player with exceptional troubleshooting and debugging skills. Proven ability to deliver high-quality, maintainable software solutions that align with complex business needs, supported by strong knowledge.
-
-Hands-on experience collaborating with cross-functional teams has provided a deep understanding of business requirements and the full software development lifecycle. This comprehensive perspective enables the design of backend solutions that are not only technically sound but also aligned with product and business goals.  
-
-My journey in the world of technology has been deeply intertwined with open-source projects, and I'm passionate about contributing to and improving the open-source space.
-
-As you navigate through my projects, you'll find a collection of endeavors that reflect my commitment to the craft. I invite you to explore, and collaborate, and together, we can make these projects even better.
-</p>
-<!--Thank you for visiting, and I look forward to our shared journey of innovation and code excellence. -->
-
 
 <br>
 
@@ -108,18 +93,3 @@ As you navigate through my projects, you'll find a collection of endeavors that 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahboubehSeyedpour&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahboubehSeyedpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
-
-<!--
-**MahboubehSeyedpour/MahboubehSeyedpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
