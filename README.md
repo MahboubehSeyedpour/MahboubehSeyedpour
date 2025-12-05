@@ -6,6 +6,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 
+<a href="https://www.linkedin.com/in/mahboubehseyedpour/" target="_blank">
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+    alt="LinkedIn"
+    style="height: 35px; vertical-align: middle;"
+  />
+</a>
+
+<a href="https://medium.com/@mahboubeh.seyedpour" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=fff"
+    alt="Medium"
+    style="height: 35px; vertical-align: middle;"
+  />
+</a>
+
+
 <!--
   - :office: &nbsp;I'm currently working at **..**
   - 
