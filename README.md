@@ -2,11 +2,6 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1
 
 
-<!--
-  - :office: &nbsp;I'm currently working at **..**
-  - 
--->
-
 - 🔧 Software Engineer with 6+ years of experience
 
 - ⚙️ Formerly an Android developer, now also a backend engineer
